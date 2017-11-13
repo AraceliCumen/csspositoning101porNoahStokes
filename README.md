@@ -1,9 +1,6 @@
-# Proyecto La Cancha
+# Proyecto 101 por Noah Satokes
 
 ## Objetivos
 
  El objetivo de este proyecto es aplicar os conocimientos sobre positioning
 
- ## Resultados
-
- ![Resultados Proyecto Cancha](assets/docs/resultadoscancha.PNG "Resultados Proyecto Cancha")
